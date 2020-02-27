@@ -17,7 +17,7 @@ namespace no
         }
         public void sayname()
         {
-            MessageBox.Show("my name is " + name);
+            MessageBox.Show("my name is " + name + "I am a " + breed + " And I am " + height + " in.");
         }
 
     }

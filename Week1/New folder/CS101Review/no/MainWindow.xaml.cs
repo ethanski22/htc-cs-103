@@ -36,6 +36,7 @@ namespace no
             dog dog = new dog();
             dog.name = dogname;
             dog.sayname();
+
         }
 
         private void buttonbark_Click(object sender, RoutedEventArgs e)
