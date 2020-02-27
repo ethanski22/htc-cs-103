@@ -1,0 +1,17 @@
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\bin\Debug\netcoreapp3.1\no.exe
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\bin\Debug\netcoreapp3.1\no.deps.json
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\bin\Debug\netcoreapp3.1\no.runtimeconfig.json
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\bin\Debug\netcoreapp3.1\no.runtimeconfig.dev.json
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\bin\Debug\netcoreapp3.1\no.dll
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\bin\Debug\netcoreapp3.1\no.pdb
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no.csprojAssemblyReference.cache
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no_MarkupCompile.cache
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no_MarkupCompile.lref
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no.g.resources
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no.AssemblyInfoInputs.cache
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no.AssemblyInfo.cs
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no.dll
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\no\obj\Debug\netcoreapp3.1\no.pdb

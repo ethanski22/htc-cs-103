@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CS101Review"
         mc:Ignorable="d"
-        Title="MainWindow" Height="300" Width="300">
+        Title="MainWindow" Height="404.453" Width="436.032">
     <StackPanel>
         <TextBlock Margin="10,25,10,10" HorizontalAlignment="Center">Enter your name:</TextBlock>
         <TextBox Height="20" Width="200" Name="txtName"></TextBox>
         <TextBlock Margin="10,25,10,10" HorizontalAlignment="Center">Enter your age:</TextBlock>
-        <TextBox Height="20" Width="100" Name="txtAge">0</TextBox>
+        <TextBox Height="20" Width="100" Name="txtAge">XXXXXXXXXXXXX</TextBox>
         <Button Height="25" Width="75" Margin="0,10,0,5" Click="Button_Click">Say Hello</Button>
     </StackPanel>
 </Window>

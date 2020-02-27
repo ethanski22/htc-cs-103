@@ -1,0 +1,14 @@
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\bin\Debug\CS101Review.exe.config
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\bin\Debug\CS101Review.exe
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\bin\Debug\CS101Review.pdb
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review.csprojAssemblyReference.cache
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\MainWindow.g.cs
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\App.g.cs
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review_MarkupCompile.cache
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review_MarkupCompile.lref
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\MainWindow.baml
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review.g.resources
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review.Properties.Resources.resources
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review.csproj.GenerateResource.cache
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review.exe
+C:\Users\Club2\Source\Repos\htc-cs-102\Week1\New folder\CS101Review\CS101Review\obj\Debug\CS101Review.pdb
