@@ -11,7 +11,7 @@ namespace no
         public string name;
         public int height;
         
-        public void bark()
+        public void bork()
         {
             MessageBox.Show("bark");
         }

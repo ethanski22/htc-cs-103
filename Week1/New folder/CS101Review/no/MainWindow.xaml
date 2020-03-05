@@ -15,7 +15,7 @@
         <Label x:Name="label_Copy2" Content="enter an age" HorizontalAlignment="Left" Margin="87,0,0,0" VerticalAlignment="Center"/>
         <TextBox x:Name="breedbox" HorizontalAlignment="Left" Margin="219,139,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged"/>
         <TextBox x:Name="agebox" HorizontalAlignment="Left" Margin="219,187,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="textBox_TextChanged"/>
-        <Button x:Name="buttonbark" Content="bark" HorizontalAlignment="Center" Margin="0,326,0,0" VerticalAlignment="Top" Click="buttonbark_Click"/>
+        <Button x:Name="buttonbark" Content="bork" HorizontalAlignment="Right" Margin="0,326,186,0" VerticalAlignment="Top" Click="buttonbark_Click"/>
 
     </Grid>
 </Window>
