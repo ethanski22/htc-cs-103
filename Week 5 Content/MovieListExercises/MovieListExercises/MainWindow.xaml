@@ -12,13 +12,16 @@
                 <GridView>
                     <GridViewColumn Width="150" Header="Title" DisplayMemberBinding="{Binding Title}"></GridViewColumn>
                     <GridViewColumn Width="100" Header="Release Year" DisplayMemberBinding="{Binding ReleaseYear}"></GridViewColumn>
+                    <GridViewColumn Width="100" Header="Genre" DisplayMemberBinding="{Binding genre}"></GridViewColumn>
                 </GridView>
             </ListView.View>
         </ListView>
         <TextBlock>Title</TextBlock>
         <TextBox Name="titleInput" Margin="0,0,0,15"></TextBox>
-        <TextBlock>Release Year</TextBlock>
-        <TextBox Name="releaseYearInput" Margin="0,0,0,15"></TextBox>
+        <TextBlock>Genre</TextBlock>
+        <TextBox Name="genre" Margin="0,0,0,15"></TextBox>
         <Button Click="AddButton_Click" HorizontalAlignment="Center" Margin="0,0,0,10">Add</Button>
+        <DatePicker Name="date"></DatePicker>
+        <Button x:Name="save" Content="save" Click="save_Click"/>
     </StackPanel>
 </Window>

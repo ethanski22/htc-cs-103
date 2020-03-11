@@ -25,6 +25,7 @@ namespace week_4
         {
             InitializeComponent();
             movielist = new List<movies>();
+
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -36,9 +37,7 @@ namespace week_4
         {
             foreach (movies movie in movielist)
             {
-                movie.ShowDetails();
-                MessageBox.Show("successfully added");
-            }
+                movie.ShowDetails();            }
         }
 
         private void add_Click(object sender, RoutedEventArgs e)
@@ -47,6 +46,7 @@ namespace week_4
             movielist.Add(movie);
             titleinput.Clear();
             releaseyearinput.Clear();
+            MessageBox.Show("successfully added");
         }
     }
 }

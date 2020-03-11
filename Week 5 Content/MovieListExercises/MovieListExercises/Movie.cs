@@ -11,12 +11,16 @@ namespace MovieList
             set;
         }
 
-        public int ReleaseYear
+        public DateTime ReleaseYear
         {
             get;
             set;
         }
-
+        public string genre
+        {
+            get;
+            set;
+        }
         public void ShowDetails()
         {
             string infoString = "Title: " + this.Title;
@@ -24,10 +28,11 @@ namespace MovieList
             MessageBox.Show(infoString);
         }
 
-        public Movie(string myTitle, int myReleaseYear)
+        public Movie(string myTitle, DateTime myReleaseYear, string mygenre)
         {
             this.Title = myTitle;
-            this.ReleaseYear = myReleaseYear;
+            this.genre = mygenre;
+            
         }
     }
 }

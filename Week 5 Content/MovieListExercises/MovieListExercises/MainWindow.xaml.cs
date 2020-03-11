@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -33,12 +34,13 @@ namespace MovieList
 
         private void AddButton_Click(object sender, RoutedEventArgs e)
         {
-            Movie movieToAdd = new Movie(titleInput.Text, int.Parse(releaseYearInput.Text));
+            Movie movieToAdd = new Movie(titleInput.Text, date.DisplayDate, genre.Text);
 
             MovieList.Add(movieToAdd);
 
             titleInput.Clear();
-            releaseYearInput.Clear();
+            genre.Clear();
+            date.SelectedDate = null;
         }
 
         private void ShowButton_Click(object sender, RoutedEventArgs e)
@@ -56,6 +58,13 @@ namespace MovieList
             {
                 selectedMovie.ShowDetails();
             }
+        }
+
+        private void save_Click(object sender, RoutedEventArgs e)
+        {
+            StreamWriter writer = new StreamWriter("../../TextFile1.txt");
+            writer.Write(titleInput.Text + date.DisplayDate + genre.Text);
+            writer.Dispose();
         }
     }
 }

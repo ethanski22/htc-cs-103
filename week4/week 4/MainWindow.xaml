@@ -7,13 +7,24 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel Margin="10,10,10,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="358*"/>
+            <ColumnDefinition Width="435*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Margin="10,10,10,10" Grid.ColumnSpan="2">
             <TextBlock>title</TextBlock>
             <TextBox Name="titleinput" Margin="0,0,0,15"></TextBox>
             <TextBlock>release year</TextBlock>
             <TextBox Name="releaseyearinput" Margin="0,0,0,15"></TextBox>
-            <Button Click="add_Click"  HorizontalAlignment="Center" Margin="0,0,0,15">add</Button>
-            <Button Click="show_Click" HorizontalAlignment="Center">show all movies</Button>
+            <ListView x:Name="listView" Height="100">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Button Click="add_Click"  HorizontalAlignment="Center" Margin="374,0,374,15" Content="add"/>
+            <Button Click="show_Click" HorizontalAlignment="Center" Content="show all movies" Margin="342,0"/>
         </StackPanel>
     </Grid>
 </Window>
